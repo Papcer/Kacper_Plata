@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 12345
 =======
 54321
@@ -7,3 +8,6 @@
 =======
 55555
 >>>>>>> ea9d258 (Rozwiazanie konfliktu wybor hasla)
+=======
+555555
+>>>>>>> d78d0b1 (Rozwiazanie konfliktu wybor hasla)
